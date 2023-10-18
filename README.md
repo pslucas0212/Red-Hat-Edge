@@ -14,5 +14,4 @@
 - [MicroShift 4.13 installation on RedHat Enterprise Linux 9.2](https://rinoymjoseph.github.io/installation-of-microshift-4-13-on-redhat-enterprise-linux-9-2/) - Independent Blogger
 - [MicroShift – dynamic storage provisioning using LVMS](https://rinoymjoseph.github.io/microshift-dynamic-storage-provisioning-using-lvms/)- Independent Blogger
 - [MicroShift HomeLab](https://medium.com/@ben.swinney_ce/microshift-homelab-ddf57864c1d0) - From medium.com
-- [Microshift Home Lab](https://medium.com/@ben.swinney_ce/microshift-homelab-ddf57864c1d0) - From medium.com
 
